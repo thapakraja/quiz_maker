@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of QuizGen AI",
+  "description": "An AI-powered application that instantly generates quizzes from PDF documents. Upload a PDF, and let Gemini AI create multiple-choice and true/false questions for you. You can then review, edit, and export the quiz to PDF or CSV formats.",
+  "requestFramePermissions": []
+}
